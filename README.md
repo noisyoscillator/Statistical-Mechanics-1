@@ -10,4 +10,4 @@ Physical and mathematical subjects that are addressed include:
 * Bose-Einstein condensation
 * The Ising model of ferromagnetism
 
-The material presented here closely follows W. Krauth's book titled "Statistical Mechanics: Algorithms and Computations".
+The material presented here closely follows Prof. W. Krauth's book titled "Statistical Mechanics: Algorithms and Computations".

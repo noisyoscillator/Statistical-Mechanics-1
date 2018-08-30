@@ -4,7 +4,7 @@ Illustrating various topics in classical and quantum statistical mechanics throu
 Physical and mathematical subjects that are addressed include:
 * Introduction to direct and Markov-chain Monte Carlo sampling
 * Equivalence of Newton and Boltzmann mechanics, classical Monte Carlo simulations
-* Entropic interactions and a liquid $\leftrightarrow$ gas phase transition
+* Entropic interactions and a liquid-phase transition
 * Monte Carlo integration
 * Quantum statistical mechanics: path integral representation of the density matrix, quantum Monte Carlo simulations
 * Bose-Einstein condensation

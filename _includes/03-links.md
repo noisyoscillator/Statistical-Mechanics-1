@@ -1,3 +1,10 @@
-[art](https://www.deviantart.com/defeg)
+Physical and mathematical subjects that are addressed include:
+* [Direct and Markov-chain Monte Carlo methods](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/Monte%20Carlo%20algorithms-introduction.ipynb) 
+* [Equivalence of Newton and Boltzmann mechanics](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/Hard%20disks%20simulation.ipynb)
+* [Entropic interactions and liquid gas phase transitions](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/entropic%20interactions%20and%20phase%20transitions.ipynb)
+* [Monte Carlo integration](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/integration_boltzmann_distribution.ipynb)
+* [Quantum statistical mechanics: path integral representation of the density matrix](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/Density%20Matrices%20and%20Path%20Integrals.ipynb)
+* Bose-Einstein condensation
+* The Ising model of ferromagnetism
 
-[statistical mechanics](https://dgoekmen.github.io/Statistical-Mechanics/)
+The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.

@@ -1,5 +1,5 @@
 # Statistical-Mechanics
-Illustrating various topics in classical and quantum statistical mechanics through Monte Carlo sampling methods.
+Illustrating various topics in classical and quantum statistical mechanics through Monte Carlo simulations .
 
 Physical and mathematical subjects that are addressed include:
 * Introduction to direct and Markov-chain Monte Carlo sampling

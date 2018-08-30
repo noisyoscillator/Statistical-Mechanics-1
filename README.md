@@ -10,4 +10,4 @@ Physical and mathematical subjects that are addressed include:
 * Bose-Einstein condensation
 * The Ising model of ferromagnetism
 
-The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth' from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.
+The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.

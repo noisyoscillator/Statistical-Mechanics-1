@@ -1,1 +1,1 @@
-![Peinture](snapshot_00187.png)
+![paths](snapshot_00187.png)

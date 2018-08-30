@@ -2,11 +2,11 @@
 Illustrating various topics in classical and quantum statistical mechanics through Monte Carlo sampling methods.
 
 Physical and mathematical subjects that are addressed include:
-* Direct and Markov-chain Monte Carlo methods
-* Equivalence of Newton and Boltzmann mechanics
-* Entropic interactions and liquid gas phase transitions
+* Introduction to direct and Markov-chain Monte Carlo sampling
+* Equivalence of Newton and Boltzmann mechanics, classical Monte Carlo simulations
+* Entropic interactions and a liquid $\leftrightarrow$ gas phase transition
 * Monte Carlo integration
-* Quantum statistical mechanics: path integral representation of the density matrix
+* Quantum statistical mechanics: path integral representation of the density matrix, quantum Monte Carlo simulations
 * Bose-Einstein condensation
 * The Ising model of ferromagnetism
 

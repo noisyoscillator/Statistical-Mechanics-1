@@ -1,1 +1,1 @@
-![Peinture](animated.gif)
+![Peinture](snapshot_00187.png)

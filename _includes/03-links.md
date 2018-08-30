@@ -6,5 +6,3 @@ Physical and mathematical subjects that are addressed include:
 * [Quantum statistical mechanics: path integral representation of the density matrix](https://github.com/dgoekmen/Statistical-Mechanics/blob/master/Density%20Matrices%20and%20Path%20Integrals.ipynb)
 * Bose-Einstein condensation
 * The Ising model of ferromagnetism
-
-The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.

@@ -2,10 +2,6 @@
 layout: default
 ---
 
-{% include 02-figure.md %}
-
-<br>
-
 {% include 01-name.md %}
 
 <br>
@@ -18,4 +14,3 @@ layout: default
 
 <br>
 
-{% include 05-ising.md %}

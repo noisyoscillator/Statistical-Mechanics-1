@@ -11,3 +11,5 @@ Physical and mathematical subjects that are addressed include:
 * The Ising model of ferromagnetism
 
 The material presented here closely follows "Statistical Mechanics: Algorithms and Computations" by W. Krauth from the École normale supérieure and "Statistical Mechanics: A Set of Lectures" by R. P. Feynman.
+
+![Path integral Monte Carlo simulations]()

@@ -15,3 +15,7 @@ layout: default
 <br>
 
 {% include 04-refs.md %}
+
+<br>
+
+{% include 04-ising.md %}

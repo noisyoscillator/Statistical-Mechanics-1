@@ -18,4 +18,4 @@ layout: default
 
 <br>
 
-{% include 04-ising.md %}
+{% include 05-ising.md %}

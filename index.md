@@ -6,6 +6,10 @@ layout: default
 
 <br>
 
+{% include 02-figure.md %}
+
+<br>
+
 {% include 03-links.md %}
 
 <br>
